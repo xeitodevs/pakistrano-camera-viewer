@@ -1,0 +1,28 @@
+{
+  "name": "pakistrano-camera-viewer",
+  "version": "1.0.0",
+  "description": "A viewer software for communicate with pakistrano-camera-server project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xeitodevs/pakistrano-camera-viewer.git"
+  },
+  "keywords": [
+    "pakistrano",
+    "javascript",
+    "pakistrano-camera-server",
+    "pakistrano-camera-viewer",
+    "pakistrano-camera-control",
+    "camera",
+    "control",
+    "client"
+  ],
+  "author": "xeitodevs",
+  "bugs": {
+    "url": "https://github.com/xeitodevs/pakistrano-camera-viewer/issues"
+  },
+  "homepage": "https://github.com/xeitodevs/pakistrano-camera-viewer#readme"
+}
